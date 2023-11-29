@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\matrix_basic\bin\Debug\net7.0\matrix_basic.exe
+C:\Users\Administrator\Downloads\matrix_basic\bin\Debug\net7.0\matrix_basic.deps.json
+C:\Users\Administrator\Downloads\matrix_basic\bin\Debug\net7.0\matrix_basic.runtimeconfig.json
+C:\Users\Administrator\Downloads\matrix_basic\bin\Debug\net7.0\matrix_basic.dll
+C:\Users\Administrator\Downloads\matrix_basic\bin\Debug\net7.0\matrix_basic.pdb
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.dll
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\refint\matrix_basic.dll
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.pdb
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\matrix_basic.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\matrix_basic\obj\Debug\net7.0\ref\matrix_basic.dll
