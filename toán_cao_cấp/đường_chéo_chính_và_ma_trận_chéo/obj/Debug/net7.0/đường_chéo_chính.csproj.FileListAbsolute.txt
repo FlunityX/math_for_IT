@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\đường_chéo_chính\bin\Debug\net7.0\đường_chéo_chính.exe
+C:\Users\Administrator\Downloads\đường_chéo_chính\bin\Debug\net7.0\đường_chéo_chính.deps.json
+C:\Users\Administrator\Downloads\đường_chéo_chính\bin\Debug\net7.0\đường_chéo_chính.runtimeconfig.json
+C:\Users\Administrator\Downloads\đường_chéo_chính\bin\Debug\net7.0\đường_chéo_chính.dll
+C:\Users\Administrator\Downloads\đường_chéo_chính\bin\Debug\net7.0\đường_chéo_chính.pdb
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.dll
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\refint\đường_chéo_chính.dll
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.pdb
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\đường_chéo_chính.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\đường_chéo_chính\obj\Debug\net7.0\ref\đường_chéo_chính.dll
