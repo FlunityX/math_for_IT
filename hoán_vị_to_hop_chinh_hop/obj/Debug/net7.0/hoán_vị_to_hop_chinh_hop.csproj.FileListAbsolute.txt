@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\bin\Debug\net7.0\hoán_vị_to_hop_chinh_hop.exe
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\bin\Debug\net7.0\hoán_vị_to_hop_chinh_hop.deps.json
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\bin\Debug\net7.0\hoán_vị_to_hop_chinh_hop.runtimeconfig.json
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\bin\Debug\net7.0\hoán_vị_to_hop_chinh_hop.dll
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\bin\Debug\net7.0\hoán_vị_to_hop_chinh_hop.pdb
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.dll
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\refint\hoán_vị_to_hop_chinh_hop.dll
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.pdb
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\hoán_vị_to_hop_chinh_hop.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\hoán_vị_to_hop_chinh_hop\obj\Debug\net7.0\ref\hoán_vị_to_hop_chinh_hop.dll
