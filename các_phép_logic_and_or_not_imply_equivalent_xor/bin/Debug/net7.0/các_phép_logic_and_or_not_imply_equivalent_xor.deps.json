@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "các_phép_logic_and_or_not_imply_equivalent_xor/1.0.0": {
+        "runtime": {
+          "các_phép_logic_and_or_not_imply_equivalent_xor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "các_phép_logic_and_or_not_imply_equivalent_xor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
