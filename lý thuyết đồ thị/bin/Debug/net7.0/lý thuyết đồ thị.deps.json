@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lý thuyết đồ thị/1.0.0": {
+        "runtime": {
+          "lý thuyết đồ thị.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lý thuyết đồ thị/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

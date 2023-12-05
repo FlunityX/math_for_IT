@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\đạo_hàm\bin\Debug\net7.0\đạo_hàm.exe
+C:\Users\Administrator\source\repos\đạo_hàm\bin\Debug\net7.0\đạo_hàm.deps.json
+C:\Users\Administrator\source\repos\đạo_hàm\bin\Debug\net7.0\đạo_hàm.runtimeconfig.json
+C:\Users\Administrator\source\repos\đạo_hàm\bin\Debug\net7.0\đạo_hàm.dll
+C:\Users\Administrator\source\repos\đạo_hàm\bin\Debug\net7.0\đạo_hàm.pdb
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.dll
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\refint\đạo_hàm.dll
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.pdb
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\đạo_hàm.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\đạo_hàm\obj\Debug\net7.0\ref\đạo_hàm.dll

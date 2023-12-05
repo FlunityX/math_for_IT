@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\bin\Debug\net7.0\lý thuyết đồ thị.exe
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\bin\Debug\net7.0\lý thuyết đồ thị.deps.json
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\bin\Debug\net7.0\lý thuyết đồ thị.runtimeconfig.json
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\bin\Debug\net7.0\lý thuyết đồ thị.dll
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\bin\Debug\net7.0\lý thuyết đồ thị.pdb
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.dll
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\refint\lý thuyết đồ thị.dll
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.pdb
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\lý thuyết đồ thị.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\lý thuyết đồ thị\obj\Debug\net7.0\ref\lý thuyết đồ thị.dll
