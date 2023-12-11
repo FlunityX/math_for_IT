@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\vecto\bin\Debug\vecto.exe.config
+C:\Users\Administrator\source\repos\vecto\bin\Debug\vecto.exe
+C:\Users\Administrator\source\repos\vecto\bin\Debug\vecto.pdb
+C:\Users\Administrator\source\repos\vecto\obj\Debug\vecto.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\vecto\obj\Debug\vecto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\vecto\obj\Debug\vecto.exe
+C:\Users\Administrator\source\repos\vecto\obj\Debug\vecto.pdb
